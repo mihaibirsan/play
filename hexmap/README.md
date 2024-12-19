@@ -51,3 +51,7 @@ hexagonal-board-website
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
+
+## Development notes
+
+This has been rather frustrating... Could have probably created this on my own in the last 1h40min. ^202412182153
