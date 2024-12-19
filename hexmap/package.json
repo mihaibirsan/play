@@ -1,0 +1,27 @@
+{
+  "name": "hexagonal-board-website",
+  "version": "1.0.0",
+  "description": "A website to display and reference individual tiles on a hexagonal board.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "hexagonal",
+    "board",
+    "tiles",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/hexagonal-board-website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/hexagonal-board-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/hexagonal-board-website/issues"
+  }
+}
